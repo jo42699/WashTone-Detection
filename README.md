@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-MATLAB-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge" />
+
 </p>
 
 <p align="center">
